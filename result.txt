@@ -1,0 +1,32 @@
+Exibindo os nomes dos filmes presentes no arquivo:
+
+	Nome do filme: The Shawshank Redemption
+
+====================================================================================================
+
+Exibindo os nomes das series presentes no arquivo:
+
+	Nome da serie: Breaking Bad
+
+====================================================================================================
+
+Exibindo o elemento de maior rating:
+
+	Nome do elemento: Breaking Bad
+	Rating: 9.5
+
+====================================================================================================
+
+Exibindo os generos presentes no JSON:
+
+	Crime, Thriller, Drama
+
+====================================================================================================
+
+Exibindo a quantidade de filmes e series no JSON:
+
+	Numero de filmes: 1
+	Numero de series: 1
+
+====================================================================================================
+
